@@ -1,0 +1,15 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "description": "Simple Dice Game",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dice",
+    "App"
+  ],
+  "author": "Sumit Sudama Pandey",
+  "license": "ISC"
+}
